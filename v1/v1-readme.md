@@ -1,5 +1,5 @@
-First Version of it.
+v260301-0124
 
-Low quality... :/
+Uploaded figma design is prototype and some of those features which I was planning are not developed yet.
 
-260301-0124
+v2 will be with those features and some qol features.
